@@ -1,0 +1,7 @@
+{
+  "name": "yolov8-demo-front",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
